@@ -26,7 +26,7 @@
     <section class="text-center  offset-3  w-100% col-6 " >
         <section class="border" style="margin-top: 10rem; padding:20px 40px"  >
             <div >
-                <label for=""class="mb-5px">Ajax Practice</label>
+                <label for=""class="mb-4">Ajax Practice</label>
                 <input type="text" class="form-control" id="text" data-url="{{ route('ajax') }}">
             </div>
                 <button onclick="functionClick()" class="btn btn-info" style="margin-top: 30px; "  >Generate</button>
